@@ -1,0 +1,13 @@
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.exe
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.deps.json
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.runtimeconfig.json
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.runtimeconfig.dev.json
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.dll
+C:\Users\Caio\Documents\dotnet-form-test\bin\Debug\netcoreapp3.1\dotnet-form-test.pdb
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.csprojAssemblyReference.cache
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.AssemblyInfo.cs
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.dll
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.pdb
+C:\Users\Caio\Documents\dotnet-form-test\obj\Debug\netcoreapp3.1\dotnet-form-test.genruntimeconfig.cache
